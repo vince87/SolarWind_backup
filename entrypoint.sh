@@ -1,7 +1,4 @@
 #!/bin/bash
-set -e
 
 mount -a &
-for (( ; ; ))
-do
-done
+read -p
